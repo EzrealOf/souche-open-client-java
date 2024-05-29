@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.souche.sdk</groupId>
-    <artifactId>souche-sdk-java</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <groupId>com.souche.open</groupId>
+    <artifactId>souche-open-client</artifactId>
+    <version>1.3.0</version>
 
     <dependencies>
         <dependency>
